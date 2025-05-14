@@ -17,7 +17,7 @@
  
 <div> 
   
-<a href="https://instagram.com/devemdobro" target="_blank"><img src="https://www.instagram.com/dany_carvalho52?igsh=MWZnZ3R1OHB1M3hreA%3D%3D&utm_source=qr" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="www.linkedin.com/in/danyely-dos-reis-carvalho-981744339" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/" target="_blank"><img src="https://www.instagram.com/dany_carvalho52?igsh=MWZnZ3R1OHB1M3hreA%3D%3D&utm_source=qr" target="_blank"></a>
+ <a href="https://https://discord.com/channels/@me" target="_blank"><img src="www.linkedin.com/in/danyely-dos-reis-carvalho-981744339" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/danyely-dos-reis-carvalho-981744339" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
